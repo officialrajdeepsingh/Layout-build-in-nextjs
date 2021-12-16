@@ -1,6 +1,8 @@
 # How to add layout in nextjs
 
-This project to build layout in nextjs use nextjs custom app. you run code on codesandbox with one click follow artical to to understand the conspet ['Read Now']("https://officialrajdeepsingh.medium.com/80d28d571673")
+This project to build layout in nextjs use nextjs custom app. you run code on codesandbox with one click follow artical to to understand the conspet [Read Now](https://officialrajdeepsingh.medium.com/80d28d571673)
+
+
 
 ## How to use
 
