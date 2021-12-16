@@ -1,6 +1,6 @@
-# Hello World example
+# How to add layout in nextjs
 
-This example shows the most basic idea behind Next. We have 2 pages: `pages/index.js` and `pages/about.js`. The former responds to `/` requests and the latter to `/about`. Using `next/link` you can add hyperlinks between them with universal routing capabilities. The `day` directory shows that you can have subdirectories.
+This project to build layout in nextjs use nextjs custom app. you run code on codesandbox with one click follow artical to to understand the conspet [Read Now]("https://officialrajdeepsingh.medium.com/80d28d571673")
 
 ## How to use
 
